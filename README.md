@@ -1,10 +1,8 @@
-
-
-# ☕ About me
-- 🙋🏽‍♂️ Hello, I'am Ronaldo Neto.
--  🎓 Studying Software Engineering he university uninter. 
-- 🛠️ Exploring new technologies and developing solutions she softwares.
-- 🌱 Learning more about Java, MySQL and Git.
+# ☕ Sobre Mim 
+- 🙋🏽‍♂️ Olá, sou ronaldo neto.
+- 🎓 Cursando engenharia de software na universidade uninter.
+- 🛠️ Explorando novas tecnologias e desenvolvendo soluções.
+- 🌱 Aprendendo mais sobre Linux, Redes de Computadores e Python.
 
 
 ## Connect with me
@@ -13,7 +11,7 @@
 
 ## Skills
 
-![Java](https://img.shields.io/badge/java-1c2d4f.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-1c2d4f?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-1c2d4f?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-1c2d4f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronaldonetto) ![Windows](https://img.shields.io/badge/Windows-1c2d4f?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-1c2d4f?style=for-the-badge&logo=linux&logoColor=white)
+ ![Git](https://img.shields.io/badge/GIT-1c2d4f?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-1c2d4f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronaldonetto) ![Windows](https://img.shields.io/badge/Windows-1c2d4f?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-1c2d4f?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ## Github Stats
@@ -23,7 +21,3 @@
 ## My Contributitions
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ronaldonetto&repo=dio-lab-open-source&bg_color=1c2d4f&border_color=1c2d4f&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff)](https://github.com/ronaldonetto/dio-lab-open-source)
-
-
-
-
