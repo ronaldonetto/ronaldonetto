@@ -1,8 +1,8 @@
-# 👋 Olá, sou Ronaldo Neto 
+# 👋 Olá, Me chamo Ronaldo Neto!
 
-- 🔭 Um estudante apaixonado por Segurança Cibérnetica.
-- 🎓 Cursando Tecnologia em Segurança e Defesa Cibérnetica na Uninter.
-- 🌱 Atualmente estou aprendendo **hardware, redes, conexões e certificações e cursos relacionados a segurança cibérnetica.**
+- 🔭 Sou um estudante apaixonado por **Segurança Cibérnetica e TI.**
+- 🎓 Estou cursando **Tecnologia em Gestão da Segurança e Defesa Cibernética** na universidade Uninter.
+- 🌱 Atualmente estou aprendendo **sobre Hardware, Sistemas Operacionais e Redes de Computadores. E estou estudando cursos relacionados a Segurança Cibérnetica.**
 
 
 
@@ -12,7 +12,7 @@
 
 ## Habilidades
 
- ![Git](https://img.shields.io/badge/GIT-1c2d4f?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-1c2d4f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronaldonetto) ![Windows](https://img.shields.io/badge/Windows-1c2d4f?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-1c2d4f?style=for-the-badge&logo=linux&logoColor=white)
+ ![Git](https://img.shields.io/badge/GIT-1c2d4f?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-1c2d4f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronaldonetto) ![Linux](https://img.shields.io/badge/Linux-1c2d4f?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ## Estatísticas do Github
