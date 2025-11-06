@@ -1,8 +1,8 @@
 # 👋 Olá, Me chamo Ronaldo Neto!
 
-- 🔭 Sou um estudante apaixonado por **Segurança Cibérnetica e TI.**
+- 🔭 Sou um estudante apaixonado por **TI** e um grande entusiasta em **Segurança Cibérnetica.**
 - 🎓 Estou cursando **Ciência da Computação** na universidade Uninter.
-- 🌱 Atualmente estou aprendendo **sobre Hardware, Sistemas Operacionais, Redes de Computadores e Python. E estou estudando cursos relacionados a Segurança Cibérnetica.**
+- 🌱 Atualmente estou aprendendo **sobre Hardware, Sistemas Operacionais, Redes de Computadores e Python. E estou explorando cursos relacionados a Segurança Cibérnetica.**
 
 
 
