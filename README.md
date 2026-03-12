@@ -11,7 +11,7 @@
 - 🔭 Atualmente estou aprofundando meus estudos em **Segurança Cibernética**
 - 🧠 Estudando fundamentos de **Hardware, Sistemas Operacionais, Redes de Computadores e Python**
 - 🖥️ Criando **laboratórios com máquinas virtuais** para simular ataques e defesas em ambientes controlados
-- 🎯 Interessado principalmente na área de **Red Team**
+- 🎯 Interessado principalmente na área de **Blue Team**
 
 ---
 
