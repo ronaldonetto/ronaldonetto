@@ -1,9 +1,47 @@
-# 👋 Olá, Me chamo Ronaldo Neto!
+# 👋 Olá, me chamo Ronaldo Neto!
 
-- 🔭 Sou um estudante apaixonado por **TI** e um grande entusiasta em **Segurança Cibérnetica.**
-- 🎓 Estou cursando **Ciência da Computação** na universidade Uninter.
-- 🌱 Atualmente estou aprendendo **sobre Hardware, Sistemas Operacionais, Redes de Computadores e Python. E estou explorando cursos relacionados a Segurança Cibérnetica.**
+🎓 Sou estudante de **Ciência da Computação** na **Uninter**  
+🔐 Entusiasta de **Cibersegurança**  
+💻 Apaixonado por **Tecnologia e aprendizado contínuo**
 
+---
+
+## 🚀 Sobre mim
+
+- 🔭 Atualmente estou aprofundando meus estudos em **Segurança Cibernética**
+- 🧠 Estudando fundamentos de **Hardware, Sistemas Operacionais, Redes de Computadores e Python**
+- 🖥️ Criando **laboratórios com máquinas virtuais** para simular ataques e defesas em ambientes controlados
+- 🎯 Interessado principalmente na área de **Red Team**
+
+---
+
+## 🧪 Prática e Aprendizado
+
+- 🔐 Prática de **CTFs (Capture The Flag)**
+- 🧪 Laboratórios de **Cibersegurança em ambientes virtuais**
+- 📚 Estudo contínuo de **fundamentos de computação**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linux
+- Python
+- Redes de Computadores
+- Virtualização (Virtual Machines)
+
+---
+
+## 📚 Atualmente estudando
+
+- Segurança da Informação
+- Redes de Computadores
+- Sistemas Operacionais
+- Python aplicado à segurança
+
+---
+
+⭐ Sempre buscando aprender mais e evoluir na área de **Cibersegurança**.
 
 
 ## Conecte-se comigo
